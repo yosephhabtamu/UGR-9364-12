@@ -266,7 +266,7 @@ a:hover {
     font-size: 0.7em;
     margin: 0 auto;
   }
-} 
+}
 
 @media screen and (max-width: 1200px) {
   .nav--dropdown {
@@ -297,3 +297,4 @@ a:hover {
     flex-shrink: 0;
   }
 }
+
